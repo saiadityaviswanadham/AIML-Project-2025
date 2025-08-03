@@ -1,0 +1,4 @@
+torch==2.7.1              # PyTorch for deep learning[1]
+transformers==4.54.1      # Hugging Face Transformers for NLP/LLMs[10]
+flask==3.1.1              # Flask for web APIs[15]
+streamlit==1.47.0         # Streamlit for dashboards/apps[20]

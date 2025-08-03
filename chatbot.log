@@ -1,0 +1,53 @@
+2025-05-21 17:08:25,803 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-21 17:08:25,803 [33mPress CTRL+C to quit[0m
+2025-05-21 17:08:25,817  * Restarting with watchdog (windowsapi)
+2025-05-21 17:08:42,050  * Debugger is active!
+2025-05-21 17:08:42,065  * Debugger PIN: 130-449-976
+2025-05-21 17:17:44,570  * Detected change in 'C:\\Users\\saiad\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\curses\\__init__.py', reloading
+2025-05-21 17:17:46,589  * Restarting with watchdog (windowsapi)
+2025-05-21 17:18:04,142  * Debugger is active!
+2025-05-21 17:18:04,145  * Debugger PIN: 130-449-976
+2025-05-21 17:18:14,043 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-21 17:18:14,043 [33mPress CTRL+C to quit[0m
+2025-05-21 17:18:14,051  * Detected change in 'C:\\Users\\saiad\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\signal.py', reloading
+2025-05-21 17:18:15,659  * Restarting with watchdog (windowsapi)
+2025-05-21 17:18:38,496  * Debugger is active!
+2025-05-21 17:18:38,499  * Debugger PIN: 130-449-976
+2025-05-21 17:19:14,871 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-21 17:19:14,871 [33mPress CTRL+C to quit[0m
+2025-05-21 17:20:07,833  * Detected change in 'c:\\Project\\e1.py', reloading
+2025-05-21 17:20:07,834  * Detected change in 'c:\\Project\\e1.py', reloading
+2025-05-21 17:20:07,834  * Detected change in 'c:\\Project\\e1.py', reloading
+2025-05-21 17:20:09,315  * Restarting with watchdog (windowsapi)
+2025-05-21 17:20:19,474 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-21 17:20:19,474 [33mPress CTRL+C to quit[0m
+2025-05-21 17:20:25,507  * Debugger is active!
+2025-05-21 17:20:25,516  * Debugger PIN: 130-449-976
+2025-05-21 17:21:14,869 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-21 17:21:14,869 [33mPress CTRL+C to quit[0m
+2025-05-21 17:21:23,050 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-21 17:21:23,050 [33mPress CTRL+C to quit[0m
+2025-05-21 17:22:30,984 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-21 17:22:30,985 [33mPress CTRL+C to quit[0m
+2025-08-03 08:22:44,741 Xet Storage is enabled for this repo, but the 'hf_xet' package is not installed. Falling back to regular HTTP download. For better performance, install the package with: `pip install huggingface_hub[hf_xet]` or `pip install hf_xet`
+2025-08-03 08:26:57,790 Xet Storage is enabled for this repo, but the 'hf_xet' package is not installed. Falling back to regular HTTP download. For better performance, install the package with: `pip install huggingface_hub[hf_xet]` or `pip install hf_xet`
+2025-08-03 08:27:05,360 Xet Storage is enabled for this repo, but the 'hf_xet' package is not installed. Falling back to regular HTTP download. For better performance, install the package with: `pip install huggingface_hub[hf_xet]` or `pip install hf_xet`
+2025-08-03 08:31:32,717 Xet Storage is enabled for this repo, but the 'hf_xet' package is not installed. Falling back to regular HTTP download. For better performance, install the package with: `pip install huggingface_hub[hf_xet]` or `pip install hf_xet`
+2025-08-03 08:31:37,596 Xet Storage is enabled for this repo, but the 'hf_xet' package is not installed. Falling back to regular HTTP download. For better performance, install the package with: `pip install huggingface_hub[hf_xet]` or `pip install hf_xet`
+2025-08-03 08:35:09,975 Xet Storage is enabled for this repo, but the 'hf_xet' package is not installed. Falling back to regular HTTP download. For better performance, install the package with: `pip install huggingface_hub[hf_xet]` or `pip install hf_xet`
+2025-08-03 08:35:12,816 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-08-03 08:35:12,817 [33mPress CTRL+C to quit[0m
+2025-08-03 08:44:11,380 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-08-03 08:44:11,380 [33mPress CTRL+C to quit[0m
+2025-08-03 08:47:56,280 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-08-03 08:47:56,280 [33mPress CTRL+C to quit[0m
